@@ -1,0 +1,131 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+header{
+    background: #1CD1B0;
+    padding: 1px;
+    margin: 0;
+    display: block;
+}
+
+.titu{
+    padding: 10px;
+    font-size: 1rem;
+}
+
+.titu2{
+    padding: 28px;
+    font-size: 3rem;
+    background-color: #00669F;
+    box-shadow: 0px 10px 7px rgb(0 0 0 / 25%);
+    text-align: left;
+}
+
+.conteiner{
+    display: flex;
+    height: 833px;
+    justify-content: center;
+    padding: 154px 0 151px 0
+}
+
+.conteiner1{
+    height: 529px;
+    width: 300px;
+    background-color: #f3f3f3;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    margin: 0 15px;
+    float: left;
+}
+
+.conteiner2{
+    height: 529px;
+    width: 300px;
+    background-color: #f3f3f3;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    margin: 0 15px;
+    float: left;
+}
+
+.conteiner3{
+    height: 529px;
+    width: 300px;
+    background-color: #f3f3f3;
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    margin: 0 15px;
+    float: left;
+}
+
+#joker{
+    border-radius: 20px 20px 0px 0px;
+    width: 300px;
+    height: 193px;
+    left: 362px;
+    top: 293px;
+}
+
+.hearth{
+    position: relative;
+    left: 15px;
+    top: -180px;
+}
+
+.card_img{
+    position: relative;
+    border-radius: 50%;
+    top: -100px;
+    left: 90px;
+    image-orientation
+}
+
+#joker_img{
+    position: relative;
+    width: 122px;
+    height: 122px;
+    left: 90px;
+    top: -100px;
+    border-radius: 50%;
+}
+
+.title{
+    position: relative;
+    text-align: center;
+    top: -100px;
+}
+
+.descrip{
+    position: relative;
+    margin: 15px;
+    top: -100px;
+    font-weight: 400;
+}
+
+.boton{
+    position: relative;
+    top: -70px;
+    left: 85px;
+    width: 128.78px;
+    height: 48.52px;
+    background: #00669F;
+    color: white;
+    border: none;
+}
+
+footer{
+    position:absolute;
+    background: #00669f;
+    width: 100%;
+    height: 51px;
+    top: 972px;
+}
+
+footer>p{
+    margin: 15px;
+    color: white;
+}
+
